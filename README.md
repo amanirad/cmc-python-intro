@@ -5,7 +5,7 @@ Welcome to the Introductory Python Workshop hosted by the Choice Modelling Centr
 ## Repository Structure
 
 The workshop repository is organized as follows: 
-````markdown
+````
 ```text
 cmc-python-intro/
 ├─ notebooks/

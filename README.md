@@ -24,7 +24,7 @@ cmc-python-intro/
 ├─ .gitignore                 ← Files/directories to ignore in git (e.g., venv, __pycache__)
 └─ README.md                  ← Overview and setup instructions for the repository
 markdown
-Copy code```
+Copy code'''
 
 
 Put Apollo example CSVs in `data/raw/`:

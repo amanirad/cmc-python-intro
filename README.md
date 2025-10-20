@@ -6,7 +6,7 @@ Welcome to the Introductory Python Workshop hosted by the Choice Modelling Centr
 
 The workshop repository is organized as follows: 
 ````
-```text
+```
 cmc-python-intro/
 ├─ notebooks/
 │  ├─ 00_setup.ipynb          ← Setup and Tools
@@ -27,7 +27,7 @@ cmc-python-intro/
 
 Each notebook is presented with detailed explanations and code. The target audience is postgraduate students and researchers at CMC, so we assume familiarity with choice modelling concepts but little to no experience with Python. Throughout, we emphasize step-by-step learning, applied examples with Apollo choice data, and interpretation of results in a choice modelling context.
 
-Put Apollo example CSVs in `data/raw/`:
+Apollo datasets in `data/raw/`:
 - apollo_modeChoiceData.csv
 - apollo_swissRouteChoiceData.csv
 - apollo_drugChoiceData.csv
